@@ -9,7 +9,7 @@ The objective of this notebook is to show how covid 19 is spreading differently 
 
 2.2 visualization
 
-<li>About the Dataset</li>
+<li>About the Dataset
 COVID-19 data from John Hopkins University <a>https://systems.jhu.edu/research/public-health/ncov/</a>
-
+</li>
 </p>
