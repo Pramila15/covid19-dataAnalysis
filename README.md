@@ -4,13 +4,9 @@ The objective of this notebook is to show how covid 19 is spreading differently 
 <ul>
   <li>Load data and python package library</li>
   <li>Exploratory data analysis</li>
-
-2.1 descriptive analysis
-
-2.2 visualization
+  <li>2.1 descriptive analysis</li>
+  <li>2.2 visualization</li>
 </ul>
+</p>
 About the Dataset <br>
 COVID-19 data from John Hopkins University <a>https://systems.jhu.edu/research/public-health/ncov/</a>
-
-
-</p>
